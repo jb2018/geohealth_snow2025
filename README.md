@@ -12,7 +12,7 @@ John Snow’s Cholera map (tiff)
 
 To explore and analyze the data watch the following videos to learn how in QGIS.
 
-Intro to QGIS 1 - https://youtu.be/MmJeZyybq0g 
+Intro to QGIS 1 - https://youtu.be/MmJeZyybq0g  
 Intro to QGIS 2 - Explore the data: https://www.youtube.com/watch?v=a0snA-EfQqI 
 Intro to QGIS 3 - Analysis using point pattern methods: https://youtu.be/OF6ML3gRyvc 
 
